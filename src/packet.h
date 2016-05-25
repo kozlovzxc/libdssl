@@ -21,6 +21,9 @@
 #ifndef __DSSL_PACKET_H__
 #define __DSSL_PACKET_H__
 
+#include <pcap/pcap.h>
+#include <openssl/evp.h>
+
 #include "dssl_defs.h"
 #ifdef  __cplusplus
 extern "C" {

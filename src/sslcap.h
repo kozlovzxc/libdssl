@@ -21,7 +21,7 @@
 #ifndef __DSSL_SSLCAP_H__
 #define __DSSL_SSLCAP_H__
 
-#include <sys/types>
+#include <sys/types.h>
 
 #include "ptypes.h"
 #include "dssl_defs.h"
